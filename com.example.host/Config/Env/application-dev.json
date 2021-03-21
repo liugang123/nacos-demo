@@ -1,0 +1,16 @@
+{
+  "rabbit": {
+    "connectionString": "dev"
+  },
+  "tencent": {
+    "cos": {
+      "secretId": "dev",
+      "secretKey": "dev",
+      "region": "dev",
+      "bucketName": "dev",
+      "durationSecond": 0,
+      "divisionForUpload": 0,
+      "sliceSizeForUpload": 0
+    }
+  }
+}

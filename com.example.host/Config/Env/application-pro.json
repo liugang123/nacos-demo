@@ -1,0 +1,16 @@
+{
+  "rabbit": {
+    "connectionString": "pro"
+  },
+  "tencent": {
+    "cos": {
+      "secretId": "pro",
+      "secretKey": "pro",
+      "region": "pro",
+      "bucketName": "pro",
+      "durationSecond": 0,
+      "divisionForUpload": 0,
+      "sliceSizeForUpload": 0
+    }
+  }
+}

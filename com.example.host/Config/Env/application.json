@@ -1,0 +1,16 @@
+{
+  "rabbit": {
+    "connectionString": "default"
+  },
+  "tencent": {
+    "cos": {
+      "secretId": "default",
+      "secretKey": "default",
+      "region": "default",
+      "bucketName": "default",
+      "durationSecond": 0,
+      "divisionForUpload": 0,
+      "sliceSizeForUpload": 0
+    }
+  }
+}
